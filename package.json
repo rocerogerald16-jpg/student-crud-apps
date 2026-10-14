@@ -1,4 +1,12 @@
+
 {
+  "name": "student-crud-apps",
+  "version": "1.0.0",
+  "description": "Student CRUD application",
+  "main": "Server.js",
+  "scripts": {
+    "start": "node Server.js"
+  },
   "dependencies": {
     "dotenv": "^18.0.2",
     "express": "^5.2.1",
